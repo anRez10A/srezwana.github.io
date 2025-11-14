@@ -1,5 +1,9 @@
 # Shamanta Rezwana
 
+Vadail Bazar, DEPZ, Savar, Dhaka, Bangladesh  
+Email: [rezwanashamanta@gmail.com](mailto:rezwanashamanta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/s-rezwana10a/) · [GitHub](https://github.com/anRez10A) · Contact No: +8801703800280
+
+
 ---
 
 Welcome to my portfolio. As an Electrical and Computer Engineering graduate from Rajshahi University of Engineering & Technology (RUET), I am passionate about contributing to both research and teaching. My thesis work and academic background are rooted in Machine Learning, AI and Deep Learning, which has shaped my interest in exploring its applications in Signal Processing, Image Processing and NLP. Alongside a strong foundation in those particular fields, I am eager to apply my technical expertise and analytical skills to address emerging challenges in cybersecurity, cyber-physical systems and computer vision. Currently preparing for PhD admission, I am actively seeking research opportunities to advance cutting-edge developments in secure and intelligent systems.
