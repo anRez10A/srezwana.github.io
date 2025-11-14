@@ -1,5 +1,9 @@
 title: Shamanta Rezwana
 logo: passport size.png
-Address: Vadail Bazar, DEPZ, Savar, Dhaka, Bangladesh  
-Email: [rezwanashamanta@gmail.com](mailto:rezwanashamanta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/s-rezwana10a/) · [GitHub](https://github.com/anRez10A) · Contact No: +8801703800280
+author:
+  Address: Vadail Bazar, DEPZ, Savar, Dhaka, Bangladesh  
+  email: "rezwanashamanta@gmail.com"
+  github: "https://github.com/anRez10A"
+  linkedin: "https://www.linkedin.com/in/s-rezwana10a/"
+  Contact No: "+8801703800280"
 theme:  jekyll-theme-minimal
